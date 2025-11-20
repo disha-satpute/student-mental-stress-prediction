@@ -105,3 +105,18 @@ After cleaning & preprocessing:
 - Correlation Heatmap   
 - Model comparison bar charts  
 
+## 📈  Models Performance
+
+regression models:
+
+![Regression Model Comparison](regression.png)
+
+Classification models:
+
+![classification Model Comparison](classification.png)
+
+## 🔥 Combined Performance Comparison
+
+This chart visualizes the performance of both regression and classification models:
+
+![Combined Models Comparison](combined.png)
